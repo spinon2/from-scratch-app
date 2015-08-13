@@ -1,0 +1,34 @@
+
+	------------------------
+	Instructions File 
+	------------------------
+
+	1.-  Download GitHub from https://github.com/blog/1510-installing-git-from-github-for-mac and follow instructions. 
+
+	NOTE > can download GitHub Desktop or  download Git from http://git-scm.com ; in this note first will instal by “ http://git-scm.com “
+
+2.-   Basic Commands .
+
+	1.* Clone > git clone https://github.com/spinon2/WFG-hp.git 
+		“ make clone all repository “
+
+        2.* Satus >  git status
+		“ check difference between repository and local version "
+		
+
+	3.* Add >   git add index.html  “ add index.html file to repository”
+	      git add .   “ add ALL files in your directory ”
+              git add -A  “ add ALL files in your directory ”
+
+	
+
+	
+    4.* Commit > git commit -m "add index.html”
+		“ commit the file change description “
+
+	5.* Push >    git push 
+		“ with this command upgrade GitHub repository “
+
+    6.* Pull >     git pull
+		“ upgrade local directory "
+ 
